@@ -27,6 +27,7 @@
 <div align="center">
 </div>
 
-<a href="mailto:yedoong919@gmail.com"><img alt="Gmail" src ="https://img.shields.io/badge/yedoong919@gmail.com-EA4335.svg?&style=flat&logo=Gmail&logoColor=white"/></a>
+<br>
+<hr>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YEJIXD&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
