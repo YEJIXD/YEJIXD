@@ -2,7 +2,7 @@
 
 <h2 align="center">☁ Tech Stack ☁</h2>
 
-<h3 align="center"> 📈 Back-End 📈</h3>
+<h3 align="center"> ⚙ Back-End ⚙</h3>
 <div align="center">
   <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" />
   <img alt="JSP" src ="https://img.shields.io/badge/JSP-F86001.svg?&style=flat&logo=Java&logoColor=white"/>
@@ -14,7 +14,7 @@
 
 <br><br>
 
-<h3 align="center"> ✨ Front-End ✨ </h3>
+<h3 align="center"> 🧸 Front-End 🧸 </h3>
 <div align="center">
   <img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=HTML5&logoColor=white"/>
   <img alt="CSS3" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=flat&logo=CSS3&logoColor=white"/>
