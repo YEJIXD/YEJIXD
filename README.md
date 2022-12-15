@@ -35,6 +35,7 @@
 
 <h3 align="center">🛠 Tools 🛠</h3>
 <div align="center">
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=EclipseIDE&logoColor=white"/>
 </div>
 
 <br><br>
