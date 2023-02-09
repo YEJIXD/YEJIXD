@@ -6,10 +6,13 @@
 <div align="center">
   <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" />
   <img alt="JSP" src ="https://img.shields.io/badge/JSP-F86001.svg?&style=flat&logo=jsp&logoColor=white"/>
-  <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> 
+  <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+  <img alt="Spring" src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
   <img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
   <img alt="Mybatis" src ="https://img.shields.io/badge/Mybatis-1F4056.svg?&style=flat&logo=Mybatis&logoColor=white"/>
+  <img alt="Mybatis" src ="https://img.shields.io/badge/ApacheTomcat-F8DC75.svg?&style=flat&logo=ApacheTomcat&logoColor=white"/>
+
 </div>
 
 <br><br>
@@ -28,7 +31,9 @@
 
 <h3 align="center"> 👨🏻‍🤝‍👨🏻 Cowork Tools 👨🏻‍🤝‍👨🏻</h3>
 <div align="center">
+  <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/gitLab-FC6D26?style=flat&logo=gitLab&logoColor=white">
 </div>
 
 <br><br>
@@ -36,7 +41,10 @@
 <h3 align="center">🛠 Tools 🛠</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=EclipseIDE&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJIDEA-000000?style=flat-square&logo=IntelliJIDEA&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-F86001?style=flat-square&logo=Postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat-square&logo=Sourcetree&logoColor=white"/>
 </div>
 
 <br><br>
