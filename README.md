@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=YeJi%20Yun&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=YYUN&fontSize=90)
 
 <h2 align="center">☁ Tech Stack ☁</h2>
 
